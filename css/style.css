@@ -1,7 +1,7 @@
 /*** ^^^ Body Container ^^^ ** -------------------------------** 1 - Header Section **--------------------------------** 2 - Services Section **--------------------------------** 3 - About Me Section **--------------------------------** 4 - My Skills Section **--------------------------------** 5 - My Works Section **--------------------------------** 6 - Resume Section **--------------------------------** 7 - Clinets Section **--------------------------------** 8 - Contacts Section ** * * * * * * * * * * * * * * * *//*======== Start Global body ========*/
 body {
  font-family: Arial,Helvetica,sans-serif;
- background-color: #27292ee6;
+ background-color: #b0e4e2e6;
  padding: 28px 28px 0;
  overflow: hidden
 }
