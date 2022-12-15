@@ -80,7 +80,7 @@
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-brown,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-brown {
   color: #fff;
-  background: #378C3F; }
+  background: #c1cc94; }
 
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-blue,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-blue {
@@ -545,15 +545,15 @@
   .datepicker.dropdown-menu:before {
     display: none; }
   .datepicker.datepicker-primary {
-    background-color: #378C3F; }
+    background-color: #c1cc94; }
     .datepicker.datepicker-primary th,
     .datepicker.datepicker-primary .day div,
     .datepicker.datepicker-primary table tr td span {
       color: #FFFFFF; }
     .datepicker.datepicker-primary:after {
-      border-bottom-color: #378C3F; }
+      border-bottom-color: #c1cc94; }
     .datepicker.datepicker-primary.datepicker-orient-top:after {
-      border-top-color: #378C3F; }
+      border-top-color: #c1cc94; }
     .datepicker.datepicker-primary .dow {
       color: rgba(255, 255, 255, 0.8); }
     .datepicker.datepicker-primary table tr td.old div,
@@ -574,7 +574,7 @@
     .datepicker.datepicker-primary table tr td.active.disabled div,
     .datepicker.datepicker-primary table tr td.active.disabled:hover div {
       background-color: #FFFFFF;
-      color: #378C3F; }
+      color: #c1cc94; }
     .datepicker.datepicker-primary table tr td.day:hover div,
     .datepicker.datepicker-primary table tr td.day.focused div {
       background: rgba(255, 255, 255, 0.2); }
@@ -639,7 +639,7 @@
     .datepicker.datepicker-primary table tr td span.active:hover[disabled],
     .datepicker.datepicker-primary table tr td span.active.disabled[disabled],
     .datepicker.datepicker-primary table tr td span.active.disabled:hover[disabled] {
-      color: #378C3F; }
+      color: #c1cc94; }
 
 .datepicker-inline {
   width: 220px; }
@@ -729,7 +729,7 @@
   cursor: pointer; }
 
 .datepicker th {
-  color: #378C3F; }
+  color: #c1cc94; }
 
 .table-condensed > tbody > tr > td,
 .table-condensed > tbody > tr > th,
@@ -917,7 +917,7 @@
 .datepicker table tr td.active:hover div,
 .datepicker table tr td.active.disabled div,
 .datepicker table tr td.active.disabled:hover div {
-  background-color: #378C3F;
+  background-color: #c1cc94;
   color: #FFFFFF;
   box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.2); }
 
@@ -941,7 +941,7 @@
 .datepicker table tr td.active:hover[disabled] div,
 .datepicker table tr td.active.disabled[disabled] div,
 .datepicker table tr td.active.disabled:hover[disabled] div {
-  background-color: #378C3F; }
+  background-color: #c1cc94; }
 
 .datepicker table tr td.active:active,
 .datepicker table tr td.active:hover:active,
@@ -979,7 +979,7 @@
 .datepicker table tr td span.active.disabled,
 .datepicker table tr td span.active.disabled:hover {
   color: #fff;
-  background-color: #378C3F; }
+  background-color: #c1cc94; }
 
 .datepicker table tr td span.active:hover,
 .datepicker table tr td span.active:hover:hover,
@@ -1254,13 +1254,13 @@
     top: 1px; }
 
 .btn-primary {
-  background-color: #c3df53;
+  background-color: #c1cc94;
   color: #FFFFFF; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary.active:focus, .btn-primary.active:hover,
   .show > .btn-primary.dropdown-toggle,
   .show > .btn-primary.dropdown-toggle:focus,
   .show > .btn-primary.dropdown-toggle:hover {
-    background-color: #c3df53;
+    background-color: #acbb71;
     color: #FFFFFF;
     box-shadow: none; }
   .btn-primary:hover {
@@ -1272,8 +1272,8 @@
   fieldset[disabled] .btn-primary.focus,
   fieldset[disabled] .btn-primary:active,
   fieldset[disabled] .btn-primary.active {
-    background-color: #c3df53;
-    border-color: #c3df53; }
+    background-color: #c1cc94;
+    border-color: #c1cc94; }
   .btn-primary.btn-simple {
     color: #c3df53;
     border-color: ##c3df53; }
@@ -1291,13 +1291,13 @@
       box-shadow: none; }
 
 .btn-success {
-  background-color: #c3df53;
+  background-color: #c1cc94;
   color: #FFFFFF; }
   .btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active, .btn-success:active:focus, .btn-success:active:hover, .btn-success.active:focus, .btn-success.active:hover,
   .show > .btn-success.dropdown-toggle,
   .show > .btn-success.dropdown-toggle:focus,
   .show > .btn-success.dropdown-toggle:hover {
-    background-color: #c3df53;
+    background-color: #c1cc94;
     color: #FFFFFF;
     box-shadow: none; }
   .btn-success:hover {
