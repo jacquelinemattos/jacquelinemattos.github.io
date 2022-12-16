@@ -5180,12 +5180,13 @@ Created using IcoMoon - icomoon.io
   z-index: 9999;
   transition: all .3s ease-out; }
 
-.cc-profile-image a:hover img {
+/*.cc-profile-image a:hover img {
   transform: scale(1.06, 1.06); }
 
 .cc-profile-image a:hover:before {
   -webkit-animation: none;
           animation: none; }
+*/
 
 /* Profile Page Social button Style */
 .button-container .btn-default {
