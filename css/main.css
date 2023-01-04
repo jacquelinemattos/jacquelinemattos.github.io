@@ -1479,18 +1479,18 @@
     .btn-neutral.btn-success:hover, .btn-neutral.btn-success:focus, .btn-neutral.btn-success:active {
       color: #1beb11; }
   .btn-neutral.btn-default {
-    color: #888; }
+    color: #48555C; }
     .btn-neutral.btn-default:hover, .btn-neutral.btn-default:focus, .btn-neutral.btn-default:active {
-      color: #979797; }
+      color: #48555C; }
   .btn-neutral.active, .btn-neutral:active, .btn-neutral:active:focus, .btn-neutral:active:hover, .btn-neutral.active:focus, .btn-neutral.active:hover,
   .show > .btn-neutral.dropdown-toggle,
   .show > .btn-neutral.dropdown-toggle:focus,
   .show > .btn-neutral.dropdown-toggle:hover {
     background-color: #FFFFFF;
-    color: #40a249;
+    color: #48555C;
     box-shadow: none; }
   .btn-neutral:hover, .btn-neutral:focus {
-    color: #40a249; }
+    color: #48555C; }
     .btn-neutral:hover:not(.nav-link), .btn-neutral:focus:not(.nav-link) {
       box-shadow: none; }
   .btn-neutral.btn-simple {
