@@ -2598,7 +2598,7 @@ body {
   background-color: #888 !important; }
 
 .bg-primary {
-  background-color: #556B2F !important; }
+  background-color: #48555C !important; }
 
 .bg-info {
   background-color: #2CA8FF !important; }
@@ -3448,15 +3448,15 @@ Created using IcoMoon - icomoon.io
   .card .card-body {
     min-height: 190px; }
   .card[data-background-color="orange"] {
-    background-color: #378C3F; }
+    background-color: ##F9F4EF; }
   .card[data-background-color="red"] {
-    background-color: #FF3636; }
+    background-color: ##F9F4EF; }
   .card[data-background-color="yellow"] {
-    background-color: #FFB236; }
+    background-color: ##F9F4EF; }
   .card[data-background-color="blue"] {
-    background-color: #2CA8FF; }
+    background-color: ##F9F4EF; }
   .card[data-background-color="green"] {
-    background-color: #18ce0f; }
+    background-color: ##F9F4EF; }
 
 .card-signup {
   max-width: 350px;
@@ -3839,7 +3839,7 @@ Created using IcoMoon - icomoon.io
     content: ""; }
   .page-header:before {
     /*background-color: rgba(0, 0, 0, 0.5);*/ 
-    background-color: #48555C; }
+    background-color: #8B9556; }
   .page-header[filter-color="orange"] {
     /*background: rgba(44, 44, 44, 0.2);*/
     /* For browsers that do not support gradients */
@@ -3847,7 +3847,7 @@ Created using IcoMoon - icomoon.io
     /* For Opera 11.1 to 12.0 */
     /* For Firefox 3.6 to 15 */
     /*background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(224, 23, 3, 0.6));*/
-    background-color: #48555C;
+    background-color: #8B9556;
     /* Standard syntax */ }
   .page-header .container {
     z-index: 2; }
