@@ -1106,7 +1106,7 @@
   border-radius: 0.1875rem;
   padding: 11px 22px;
   cursor: pointer;
-  background-color: #48555C;
+  background-color: #DDD5D0;
   color: #FFFFFF; }
   .btn:hover, .btn:focus, .btn:active, .btn.active, .btn:active:focus, .btn:active:hover, .btn.active:focus, .btn.active:hover,
   .show > .btn.dropdown-toggle,
@@ -2602,7 +2602,7 @@ body {
   background-color: #888 !important; }
 
 .bg-primary {
-  background-color: #48555C !important; }
+  background-color: #586F6B !important; }
 
 .bg-info {
   background-color: #2CA8FF !important; }
@@ -3849,7 +3849,7 @@ Created using IcoMoon - icomoon.io
     content: ""; }
   .page-header:before {
     /*background-color: rgba(0, 0, 0, 0.5);*/ 
-    background-color: #8B9556; }
+    background-color: #7F9183; }
   .page-header[filter-color="orange"] {
     /*background: rgba(44, 44, 44, 0.2);*/
     /* For browsers that do not support gradients */
@@ -3857,7 +3857,7 @@ Created using IcoMoon - icomoon.io
     /* For Opera 11.1 to 12.0 */
     /* For Firefox 3.6 to 15 */
     /*background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(224, 23, 3, 0.6));*/
-    background-color: #8B9556;
+    background-color: #7F9183;
     /* Standard syntax */ }
   .page-header .container {
     z-index: 2; }
