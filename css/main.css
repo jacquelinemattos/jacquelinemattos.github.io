@@ -3468,6 +3468,12 @@ Created using IcoMoon - icomoon.io
   width: 30%;
 }
 
+.about-me-card-img{
+  max-width: 100%; 
+  height: auto;
+}
+
+
 .card-horizontal {
   display: flex;
   flex: 1 1 auto;
