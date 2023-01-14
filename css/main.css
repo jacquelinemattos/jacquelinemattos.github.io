@@ -3473,6 +3473,10 @@ Created using IcoMoon - icomoon.io
   height: auto;
 }
 
+.gallery-img{
+  max-width: 100%;
+  height: auto;
+}
 
 .card-horizontal {
   display: flex;
