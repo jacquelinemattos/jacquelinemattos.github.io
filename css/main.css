@@ -2252,8 +2252,8 @@ h6, .h6 {
   text-transform: uppercase; }
 
 .texto-about {
-      font-size: 1.4em;
-      font-weight: 700;
+      font-size: 1.3em;
+      font-weight: 600;
       margin-bottom: 10px;
     }
 
@@ -3485,7 +3485,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .card-horizontal {
-  display: flex;
+  display: inline-flex;
   flex: 1 1 auto;
 }
 
