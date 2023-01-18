@@ -3476,7 +3476,7 @@ Created using IcoMoon - icomoon.io
 
 .about-me-card-img{
   max-width: 100%; 
-  height: auto;
+  height: 100%;
 }
 
 .gallery-img{
@@ -3487,6 +3487,7 @@ Created using IcoMoon - icomoon.io
 .card-horizontal {
   display: inline-flex;
   flex: 1 1 auto;
+  height: fit-content;
 }
 
 
