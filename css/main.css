@@ -2253,7 +2253,8 @@ h6, .h6 {
 
 .texto-about {
       font-size: 1.4em;
-      font-weight: 800;
+      font-weight: 700;
+      margin-bottom: 10px;
     }
 
 p {
