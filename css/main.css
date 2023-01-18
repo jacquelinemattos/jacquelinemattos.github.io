@@ -2251,6 +2251,11 @@ h6, .h6 {
   font-weight: 700;
   text-transform: uppercase; }
 
+.texto-about {
+      font-size: 1.4em;
+      font-weight: 800;
+    }
+
 p {
   line-height: 1.61em; }
   .description p, p.description {
