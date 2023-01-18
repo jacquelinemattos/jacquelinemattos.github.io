@@ -3487,8 +3487,13 @@ Created using IcoMoon - icomoon.io
 .card-horizontal {
   display: inline-flex;
   flex: 1 1 auto;
-  height: fit-content;
+  height: 100%;
 }
+
+.imagem-com-card{
+  display: inline;
+}
+
 
 
 .card-signup {
