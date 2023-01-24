@@ -3878,7 +3878,7 @@ Created using IcoMoon - icomoon.io
     content: ""; }
   .page-header:before {
     /*background-color: rgba(0, 0, 0, 0.5);*/ 
-    background-color: #B1B695; }
+    background-color: #48555C; }
   .page-header[filter-color="orange"] {
     /*background: rgba(44, 44, 44, 0.2);*/
     /* For browsers that do not support gradients */
@@ -3886,7 +3886,7 @@ Created using IcoMoon - icomoon.io
     /* For Opera 11.1 to 12.0 */
     /* For Firefox 3.6 to 15 */
     /*background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(224, 23, 3, 0.6));*/
-    background-color: #B1B695;
+    background-color: #48555C;
     /* Standard syntax */ }
   .page-header .container {
     z-index: 2; }
