@@ -1106,7 +1106,7 @@
   border-radius: 0.1875rem;
   padding: 11px 22px;
   cursor: pointer;
-  background-color: #DDD5D0;
+  background-color: #B1B695;
   color: #FFFFFF; }
   .btn:hover, .btn:focus, .btn:active, .btn.active, .btn:active:focus, .btn:active:hover, .btn.active:focus, .btn.active:hover,
   .show > .btn.dropdown-toggle,
@@ -3886,11 +3886,11 @@ Created using IcoMoon - icomoon.io
     /* For Opera 11.1 to 12.0 */
     /* For Firefox 3.6 to 15 */
     /*background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(224, 23, 3, 0.6));*/
-    /*background-color: #B1B695;
+    background-color: #B1B695;
     /* Standard syntax */ }
   .page-header .container {
     z-index: 2; }
-
+    
 .clear-filter:after, .clear-filter:before {
   display: none; }
 
