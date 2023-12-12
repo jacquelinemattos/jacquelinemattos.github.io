@@ -5198,8 +5198,8 @@ Created using IcoMoon - icomoon.io
   content: "";
   border: 25px solid rgb(241, 247, 242);
   border-radius: 50%;
-  height: 150px;
-  width: 150px;
+  height: 180px;
+  width: 180px;
   position: absolute;
   left: 0;
   
@@ -5214,8 +5214,8 @@ Created using IcoMoon - icomoon.io
 .cc-profile-image img {
   position: relative;
   border-radius: 50%;
-  height: 150px;
-  width: 150px;
+  height: 180px;
+  width: 180px;
   padding: 0;
   margin: 0;
   border: 5px solid transparent;
