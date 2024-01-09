@@ -3829,7 +3829,8 @@ Created using IcoMoon - icomoon.io
 
 .page-header {
   height: 100vh;
-  max-height: 1050px;
+  /*max-height: 1050px;*/
+  max-height: 800px;
   padding: 0;
   color: #FFFFFF;
   position: relative;
