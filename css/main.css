@@ -26,6 +26,8 @@
  */
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap')
+
 
 .bootstrap-switch {
   display: inline-block;
@@ -2331,7 +2333,11 @@ body {
   color: #2c2c2c;
   font-size: 14px;
   /*font-family: "Arial", Arial, sans-serif;*/
-  font-family: 'Inter', sans-serif;
+  /*font-family: 'Inter', sans-serif;*/
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased; }
 
@@ -2922,11 +2928,16 @@ Created using IcoMoon - icomoon.io
 
 -------------------------------- */
 @font-face {
-  font-family: 'Arial';
+  /*font-family: 'Arial';
   src: url("../fonts/nucleo-outline.eot");
   src: url("../fonts/nucleo-outline.eot") format("embedded-opentype"), url("../fonts/nucleo-outline.woff2") format("woff2"), url("../fonts/nucleo-outline.woff") format("woff"), url("../fonts/nucleo-outline.ttf") format("truetype");
   font-weight: normal;
-  font-style: normal; }
+  font-style: normal; }*/
+
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
 
 /*------------------------
 	base class definition
